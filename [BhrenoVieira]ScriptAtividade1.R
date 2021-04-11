@@ -12,7 +12,7 @@
 
 #### Instalando pacotes necessário ####
 
-library(rio)
+library(rio) 
 library(tidyverse)
 
 #### Realizando as funções ####
